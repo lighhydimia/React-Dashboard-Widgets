@@ -1,0 +1,11 @@
+{
+  "name": "react-dashboard-widgets",
+  "version": "1.0.0",
+  "description": "Small reusable dashboard visualization components for React.",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
